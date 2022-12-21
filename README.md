@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tosilfv
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: contact information is on my CV
 
