@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="tosilfv" /> </p>
 
-## 🌱 Recent Projects with React ONGOING
+## 🌱 Recent Projects
 
  - [A CSS Styled List to Add and Remove Items](https://github.com/tosilfv/React-simple-list)
  - [Change an Array of Colors by Clicking](https://github.com/tosilfv/React-color-changer)
