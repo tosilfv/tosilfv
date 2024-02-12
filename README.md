@@ -9,7 +9,7 @@
  - [Change an Array of Colors by Clicking](https://github.com/tosilfv/React-color-changer)
  - [A Simple Counter App with React](https://github.com/tosilfv/React-simple-counter)
    
-## 😄 School Projects
+## School Projects
 
  - [OMDB project in Course 4 of Advanced Django specialization](https://github.com/tosilfv/course4_proj)
  - [Starting point for the Advanced Django course](https://github.com/tosilfv/blango)
@@ -20,7 +20,7 @@
  - [Full Stack Workout Helper frontend](https://github.com/tosilfv/fullstack_frontend/tree/master/workouthelper-frontend)
  - [Full Stack Workout Helper requirements](https://github.com/tosilfv/fullstack_requirements/tree/master/FullStack2021_vaatimukset)
 
-## 😄 Other Projects
+## Other Projects
 
  - [Algorithms in Python and TypeScript](https://github.com/tosilfv/algorithms)
  - [Home Assignment](https://github.com/tosilfv/kooditehtava)
