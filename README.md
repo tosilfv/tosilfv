@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toni</h1>
-<h3 align="center">I am a Web Programming Hobbyist.</h3>
+<h3 align="center">I am a web programming hobbyist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="tosilfv" /> </p>
 
