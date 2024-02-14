@@ -5,6 +5,7 @@
 
 ## 🌱 Projects
 
+ - [Calculator to Add, Subtract, Multiply and Divide numbers](https://github.com/tosilfv/React-simple-calculator)
  - [A CSS Styled List to Add and Remove Items](https://github.com/tosilfv/React-simple-list)
  - [Change an Array of Colors by Clicking](https://github.com/tosilfv/React-color-changer)
  - [A Simple Counter App with React](https://github.com/tosilfv/React-simple-counter)
