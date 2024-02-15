@@ -5,6 +5,7 @@
 
 ## 🌱 Projects
 
+ - [Login and Register Forms](https://github.com/tosilfv/React-simple-forms)
  - [Calculator to Add, Subtract, Multiply and Divide numbers](https://github.com/tosilfv/React-simple-calculator)
  - [A CSS Styled List to Add and Remove Items](https://github.com/tosilfv/React-simple-list)
  - [Change an Array of Colors by Clicking](https://github.com/tosilfv/React-color-changer)
