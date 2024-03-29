@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="tosilfv" /> </p>
 
 ## 🌱 Projects
- - [Scoring App Frontend MERN](https://github.com/tosilfv/scoring-app-frontend)
- - [Scoring App Backend MERN](https://github.com/tosilfv/scoring-app-backend)
+ - [Scoring Server Frontend MERN](https://github.com/tosilfv/scoring-app-frontend)
+ - [Scoring Server Backend MERN](https://github.com/tosilfv/scoring-app-backend)
  - [Student Dashboard Page](https://github.com/tosilfv/React-student-dashboard)
  - [Login and Register Forms](https://github.com/tosilfv/React-simple-forms)
  - [Calculator to Add, Subtract, Multiply and Divide numbers](https://github.com/tosilfv/React-simple-calculator)
