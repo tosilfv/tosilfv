@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="tosilfv" /> </p>
 
 ## 🌱 Projects
+ - [Experimenting Python](https://github.com/tosilfv/sicp-composing-programs)
  - [Scoring Server Frontend MERN](https://github.com/tosilfv/scoring-app-frontend)
  - [Scoring Server Backend MERN](https://github.com/tosilfv/scoring-app-backend)
  - [Student Dashboard Page](https://github.com/tosilfv/React-student-dashboard)
