@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="tosilfv" /> </p>
 
 ## 🌱 Projects
+ - [Python Practise](https://github.com/tosilfv/python)
  - [Experimenting Python](https://github.com/tosilfv/sicp-composing-programs)
  - [Calculator to Add, Subtract, Multiply and Divide numbers](https://github.com/tosilfv/React-simple-calculator)
  - [A CSS Styled List to Add and Remove Items](https://github.com/tosilfv/React-simple-list)
