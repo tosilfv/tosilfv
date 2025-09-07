@@ -19,11 +19,11 @@ I am a Developer.</h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tosilfv&show_icons=true&locale=en" alt="tosilfv" /></p>
 
-## 🌱 Currently ongoing projects 🌱
+## 🌱 Ongoing Projects 🌱
  - [Python Practise](https://github.com/tosilfv/python)
 ##
 
-### (Previous projects and school projects)
+#### (Previous projects and school projects)
  - [Experimenting Python](https://github.com/tosilfv/sicp-composing-programs)
  - [Calculator to Add, Subtract, Multiply and Divide numbers](https://github.com/tosilfv/React-simple-calculator)
  - [A CSS Styled List to Add and Remove Items](https://github.com/tosilfv/React-simple-list)
