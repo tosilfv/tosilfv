@@ -15,12 +15,13 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tosilfv&show_icons=true&locale=en" alt="tosilfv" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tosilfv&show_icons=true&locale=en" alt="tosilfv" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tosilfv&show_icons=true&locale=en" alt="tosilfv" /></p>
 
-## 🌱 Projects
+## 🌱 Currently ongoing Projects 🌱
  - [Python Practise](https://github.com/tosilfv/python)
+##
+
+### (Previous projects and School projects)
  - [Experimenting Python](https://github.com/tosilfv/sicp-composing-programs)
  - [Calculator to Add, Subtract, Multiply and Divide numbers](https://github.com/tosilfv/React-simple-calculator)
  - [A CSS Styled List to Add and Remove Items](https://github.com/tosilfv/React-simple-list)
@@ -33,8 +34,6 @@
  - [Book List in React (w. hooks)](https://github.com/tosilfv/React-booklist)
  - [Arabialainen Card game](https://github.com/tosilfv/frontend/tree/master/arabialainen)
  - [Ghibli Anime movies list site](https://github.com/tosilfv/vanillajs/tree/master/ghibli)
-   
-## School
  - [Scoring Server Frontend MERN](https://github.com/tosilfv/scoring-app-frontend)
  - [Scoring Server Backend MERN](https://github.com/tosilfv/scoring-app-backend)
  - [Student Dashboard Page](https://github.com/tosilfv/React-student-dashboard)
@@ -47,4 +46,3 @@
  - [Full Stack Workout Helper backend](https://github.com/tosilfv/fullstack_backend/tree/master/workouthelper-backend)
  - [Full Stack Workout Helper frontend](https://github.com/tosilfv/fullstack_frontend/tree/master/workouthelper-frontend)
  - [Full Stack Workout Helper requirements](https://github.com/tosilfv/fullstack_requirements/tree/master/FullStack2021_vaatimukset)
-
