@@ -23,7 +23,7 @@ Welcome to my GitHub page!</h1>
 [python](https://github.com/tosilfv/python)
 ##
 
-#### (Previous projects and school projects)
+#### (Previous and school projects)
  - [Experimenting Python](https://github.com/tosilfv/sicp-composing-programs)
  - [Calculator to Add, Subtract, Multiply and Divide numbers](https://github.com/tosilfv/React-simple-calculator)
  - [A CSS Styled List to Add and Remove Items](https://github.com/tosilfv/React-simple-list)
