@@ -20,31 +20,5 @@ Welcome to my GitHub page!</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tosilfv&show_icons=true&locale=en" alt="tosilfv" /></p>
 
 ## 🌱 Ongoing Projects 🌱
-[python](https://github.com/tosilfv/python)
+ - [python](https://github.com/tosilfv/python)
 ##
-
-#### (Previous and school projects)
- - [Experimenting Python](https://github.com/tosilfv/sicp-composing-programs)
- - [Calculator to Add, Subtract, Multiply and Divide numbers](https://github.com/tosilfv/React-simple-calculator)
- - [A CSS Styled List to Add and Remove Items](https://github.com/tosilfv/React-simple-list)
- - [Change an Array of Colors by Clicking](https://github.com/tosilfv/React-color-changer)
- - [A Simple Counter App with React](https://github.com/tosilfv/React-simple-counter)
- - [Algorithms in Python and TypeScript](https://github.com/tosilfv/algorithms)
- - [Home Assignment](https://github.com/tosilfv/kooditehtava)
- - [Customer Service Game](https://y9cuz.itch.io/asiakaspalvelu)
- - [Notes in React (w. hooks)](https://github.com/tosilfv/React-notes)
- - [Book List in React (w. hooks)](https://github.com/tosilfv/React-booklist)
- - [Arabialainen Card game](https://github.com/tosilfv/frontend/tree/master/arabialainen)
- - [Ghibli Anime movies list site](https://github.com/tosilfv/vanillajs/tree/master/ghibli)
- - [Scoring Server Frontend MERN](https://github.com/tosilfv/scoring-app-frontend)
- - [Scoring Server Backend MERN](https://github.com/tosilfv/scoring-app-backend)
- - [Student Dashboard Page](https://github.com/tosilfv/React-student-dashboard)
- - [Login and Register Forms](https://github.com/tosilfv/React-simple-forms)
- - [OMDB project in Course 4 of Advanced Django specialization](https://github.com/tosilfv/course4_proj)
- - [Starting point for the Advanced Django course](https://github.com/tosilfv/blango)
- - [NODEJS Course Assignment](https://github.com/tosilfv/nodejs)
- - [ICT-Summer School Assignment](https://github.com/tosilfv/ict-summer-web-frontend)
- - [EmployeeSearch Social media site](https://github.com/tosilfv/java/tree/master/EmployeeSearch)
- - [Full Stack Workout Helper backend](https://github.com/tosilfv/fullstack_backend/tree/master/workouthelper-backend)
- - [Full Stack Workout Helper frontend](https://github.com/tosilfv/fullstack_frontend/tree/master/workouthelper-frontend)
- - [Full Stack Workout Helper requirements](https://github.com/tosilfv/fullstack_requirements/tree/master/FullStack2021_vaatimukset)
