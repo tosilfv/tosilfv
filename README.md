@@ -20,5 +20,6 @@ Welcome to my GitHub page!</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tosilfv&show_icons=true&locale=en" alt="tosilfv" /></p>
 
 ## 🌱 Ongoing Projects 🌱
- - [python](https://github.com/tosilfv/python)
+ - [Humanoid Worker Game in Python](https://github.com/tosilfv/Humanoid-worker-game)
+ - [Python Practise](https://github.com/tosilfv/python)
 ##
