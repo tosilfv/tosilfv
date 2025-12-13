@@ -21,6 +21,6 @@ Welcome to my GitHub Page!</h1>
  - [My Homepage](https://tosilfv.pythonanywhere.com/)
 
 ## 🌱 Ongoing Projects 🌱
- - [Piccolo-hotel-game](https://github.com/tosilfv/Pygame)
+ - [Hotel-piccolo-game](https://github.com/tosilfv/Pygame)
  - [Dart](https://github.com/tosilfv/Dart)
 ##
