@@ -22,5 +22,4 @@ Welcome to my GitHub Page!</h1>
 
 ## 🌱 Ongoing Projects 🌱
  - [Hotel-piccolo-game](https://github.com/tosilfv/Pygame)
- - [Dart](https://github.com/tosilfv/Dart)
 ##
