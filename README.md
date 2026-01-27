@@ -2,6 +2,14 @@
 <br><br>
 Welcome to my GitHub Page!</h1>
 
+I am a dedicated individual with a passion
+for continuous learning and personal growth.
+My diverse interests in fitness, literature,
+language acquisition, and <strong>programming</strong>
+shape my unique approach to both my personal and
+professional life. I like to keep myself busy,
+like "The City That Never Sleeps".
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="tosilfv" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,8 +25,40 @@ Welcome to my GitHub Page!</h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tosilfv&show_icons=true&locale=en" alt="tosilfv" /></p>
 
- - [My Homepage on pythonanywhere](https://tosilfv.pythonanywhere.com/)
-
 ## 🌱 Ongoing Projects 🌱
  - [Hotel-piccolo-game](https://github.com/tosilfv/Hotel-piccolo-game)
 ##
+
+## What I Do
+
+Professionally, I am focused on programming and
+technology. I have honed my skills in various
+programming languages and frameworks, enabling me
+to develop innovative solutions and contribute to
+dynamic projects. My technical expertise, combined
+with my analytical mindset, allows me to tackle
+complex problems efficiently. I'm pursuing to
+grasp the overarching perspective of the situation.
+
+## Who I Am
+
+I thrive on challenges and believe in the power of
+hard work and discipline. My commitment to fitness
+not only keeps me physically active but also instills
+a strong sense of perseverance and resilience. I
+enjoy reading a variety of genres, which broadens
+my perspective and enhances my critical thinking
+skills. Additionally, I am passionate about learning
+new languages, as it allows me to connect with
+different cultures and communicate effectively in a
+globalized world. Much like the towering skyscrapers
+that define urban skylines, I aspire to reach great
+heights in my life.
+
+## My Interests
+
+I am eager to bring my skills and enthusiasm to
+a forward-thinking organization. I believe that
+my diverse interests and dedication to personal
+and professional development make me a valuable
+asset.
