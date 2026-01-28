@@ -1,6 +1,6 @@
 # Toni Silfver – Software Developer & Automation Enthusiast
 
-## ⚡ About Me
+**⚡ About Me**
 Calm, analytical, and focused on building projects that produce real results. I enjoy tackling hands-on coding challenges and small automation experiments. I like seeing my work in action and continuously learning new tools and techniques along the way.
 
 <p align="left">
@@ -30,10 +30,8 @@ Platform-based educational game where the player controls a piccolo navigating a
   <img src="https://raw.githubusercontent.com/tosilfv/Hotel-piccolo-game/main/video_1.gif" width="400" alt="Piccolo Demo"/>
 </div>
 
----
-
 ### 🌬 Raspberry Pi Air Quality System
-Python-based system using Sen5x I2C sensor to measure air quality and control ventilation automatically. Demonstrates hands-on automation and hardware-software integration.  
+Python-based system using Sen5x I2C sensor to measure air quality and control ventilation automatically. Demonstrates hands-on automation and hardware-software integration.
 
 [View Repo](https://github.com/tosilfv/Raspberry-air-quality-control)
 
