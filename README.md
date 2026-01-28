@@ -2,7 +2,13 @@
 
 Calm, analytical, and passionate about building practical, production-ready solutions. Focused on learning, coding, and solving real-world problems through hands-on projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="tosilfv" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tosilfv&show_icons=true&locale=en" alt="GitHub streak"/>
+</p>
 
 ### 🛠 Core Technologies
 <p align="left">
