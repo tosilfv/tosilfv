@@ -44,4 +44,6 @@ Python-based system using Sen5x I2C sensor to measure air quality and control ve
   <img src="https://github.com/tosilfv/Raspberry-air-quality-control/blob/main/raspberry_air_quality/images/philips_hue_smart_plug.png" width="200" alt="Smart Plug"/>
 </div>
 
+<br />
+
 **CV available upon request**
