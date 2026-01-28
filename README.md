@@ -13,8 +13,6 @@ Calm, analytical, and focused on building projects that produce real results. I 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tosilfv&show_icons=true&locale=en" alt="GitHub streak"/>
 </p>
 
-<br />
-
 ### 🛠 Core Technologies
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
@@ -26,11 +24,9 @@ Calm, analytical, and focused on building projects that produce real results. I 
   <a href="https://cursor.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126759922?v=4" alt="cursor" width="40" height="40"/></a>
 </p>
 
-<br />
-
 ### ⚙️ Additional Skills
 🐍 Python | 📓 Jupyter | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | 💻 VSCode | 🖱️ Cursor | 🏭 CODESYS v3.5 | 🔗 CANopen | 🤖 Automation | ✅ Testing | 🎮 Pygame | 🌬 Raspberry Pi | ⚙️ Industrial System Concepts | 🛠️ Full Stack Development
-
+<br />
 <br />
 
 ## 💻 Projects
