@@ -1,10 +1,10 @@
-# Toni Silfver – Software Developer & Automation Engineer
+# Toni Silfver – Software Developer & Automation Enthusiast
 
-I am a software developer and industrial automation engineer, passionate about building practical, production-ready solutions. I work calmly and analytically, focusing on large-scale systems and continuous learning.
+Calm, analytical, and passionate about building practical, production-ready solutions. Focused on learning, coding, and solving real-world problems through hands-on projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="tosilfv" /> </p>
 
-### Languages & Tools
+### 🛠 Core Technologies
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
@@ -15,24 +15,24 @@ I am a software developer and industrial automation engineer, passionate about b
   <a href="https://cursor.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126759922?v=4" alt="cursor" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tosilfv&show_icons=true&locale=en" alt="tosilfv" /></p>
-
-## Projects
-
-- **Hotel Piccolo – Pygame**  
-  Platform-based educational game where the player controls a piccolo navigating a hotel. Demonstrates modular, testable, and maintainable code using the Mediator design pattern.  
-  [Repo](https://github.com/tosilfv/Hotel-piccolo-game)
-
-- **Raspberry Pi Air Quality System**  
-  Python-based system using a Sensirion Sen5x I2C sensor to measure air quality. Automatically controls ventilation. Demonstrates hardware-software integration and automation skills.  
-  [Repo](https://github.com/tosilfv/Raspberry-air-quality-control)
-
-## About Me
-
-I thrive on challenges and enjoy solving complex problems. My dedication to fitness reflects discipline and perseverance, which I apply in software and automation projects. I also enjoy reading and learning languages, broadening my perspective and communication skills.  
-
-My goal is to develop in software and industrial automation roles through practical, hands-on work.
+### ⚙️ Additional Skills
+CODESYS v3.5 | CANopen | Automation | Testing | Pygame | Raspberry Pi | Industrial System Concepts | Full Stack Development
 
 ---
 
-**Optional:** CV available upon request.
+## 💻 Projects
+
+- **Hotel Piccolo – Pygame**  
+  Platform-based educational game where the player controls a piccolo navigating a hotel. Demonstrates modular, testable, and maintainable code using the Mediator pattern.  
+  [Repo](https://github.com/tosilfv/Hotel-piccolo-game)
+
+- **Raspberry Pi Air Quality System**  
+  Python-based system using Sen5x I2C sensor to measure air quality and control ventilation automatically. Demonstrates hands-on automation and hardware-software integration.  
+  [Repo](https://github.com/tosilfv/Raspberry-air-quality-control)
+
+---
+
+### ⚡ About Me
+I like building projects where I can actually code and see results. I work calmly, think things through, and focus on solutions that really work. I’m always picking up new tools and techniques, exploring software and small automation projects along the way.
+
+**CV available upon request**
