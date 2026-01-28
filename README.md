@@ -1,6 +1,7 @@
 # Toni Silfver – Software Developer & Automation Enthusiast
 
-Calm, analytical, and passionate about building practical, production-ready solutions. Focused on learning, coding, and solving real-world problems through hands-on projects.
+**About Me**  
+I’m calm and analytical, focused on building projects that produce real results. I enjoy tackling real problems through hands-on coding and small automation experiments. I like seeing my work in action and continuously learning new tools and techniques along the way.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -22,19 +23,16 @@ Calm, analytical, and passionate about building practical, production-ready solu
 </p>
 
 ### ⚙️ Additional Skills
-CODESYS v3.5 | CANopen | Automation | Testing | Pygame | Raspberry Pi | Industrial System Concepts | Full Stack Development
+🐍 Python | 📓 Jupyter | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | 💻 VSCode | 🖱️ Cursor | 🏭 CODESYS v3.5 | 🔗 CANopen | 🤖 Automation | ✅ Testing | 🎮 Pygame | 🌬 Raspberry Pi | ⚙️ Industrial System Concepts | 🛠️ Full Stack Development
 
 ## 💻 Projects
 
-- **Hotel Piccolo – Pygame**  
+- 🎮 **Hotel Piccolo – Pygame**  
   Platform-based educational game where the player controls a piccolo navigating a hotel. Demonstrates modular, testable, and maintainable code using the Mediator pattern.  
-  [Repo](https://github.com/tosilfv/Hotel-piccolo-game)
+  [View Repo](https://github.com/tosilfv/Hotel-piccolo-game)
 
-- **Raspberry Pi Air Quality System**  
+- 🌬 **Raspberry Pi Air Quality System**  
   Python-based system using Sen5x I2C sensor to measure air quality and control ventilation automatically. Demonstrates hands-on automation and hardware-software integration.  
-  [Repo](https://github.com/tosilfv/Raspberry-air-quality-control)
-
-## ⚡ About Me
-I like building projects where I can actually code and see results. I work calmly, think things through, and focus on solutions that really work. I’m always picking up new tools and techniques, exploring software and small automation projects along the way.
+  [View Repo](https://github.com/tosilfv/Raspberry-air-quality-control)
 
 **CV available upon request**
