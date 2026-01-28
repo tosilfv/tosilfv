@@ -18,8 +18,6 @@ Calm, analytical, and passionate about building practical, production-ready solu
 ### ⚙️ Additional Skills
 CODESYS v3.5 | CANopen | Automation | Testing | Pygame | Raspberry Pi | Industrial System Concepts | Full Stack Development
 
----
-
 ## 💻 Projects
 
 - **Hotel Piccolo – Pygame**  
@@ -30,9 +28,7 @@ CODESYS v3.5 | CANopen | Automation | Testing | Pygame | Raspberry Pi | Industri
   Python-based system using Sen5x I2C sensor to measure air quality and control ventilation automatically. Demonstrates hands-on automation and hardware-software integration.  
   [Repo](https://github.com/tosilfv/Raspberry-air-quality-control)
 
----
-
-### ⚡ About Me
+## ⚡ About Me
 I like building projects where I can actually code and see results. I work calmly, think things through, and focus on solutions that really work. I’m always picking up new tools and techniques, exploring software and small automation projects along the way.
 
 **CV available upon request**
