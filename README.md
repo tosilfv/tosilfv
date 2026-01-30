@@ -35,7 +35,7 @@ Calm, analytical, and focused on building projects that produce real results. I 
 Platform-based educational game where the player controls a piccolo navigating a hotel. Demonstrates modular, testable, and maintainable code using the Mediator pattern.  
 [View Repo](https://github.com/tosilfv/Hotel-piccolo-game)  
 
-<img src="https://github.com/tosilfv/Hotel-piccolo-game/blob/main/video_1.gif" width="400" alt="Piccolo Demo"/>
+<img src="https://github.com/tosilfv/Hotel-piccolo-game/blob/main/video_2.gif" width="400" alt="Piccolo Demo"/>
 
 ### 🌬 Raspberry Pi Air Quality System
 Python-based system using Sen5x I2C sensor to measure air quality and control ventilation automatically. Demonstrates hands-on automation and hardware-software integration.  
