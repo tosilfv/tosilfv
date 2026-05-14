@@ -1,6 +1,6 @@
 # Toni Silfver
 
-**Software Developer • Automation • Python • Industrial Systems**
+**Cybersecurity • Software Development • Automation • Industrial Systems**
 
 ## About Me
 
