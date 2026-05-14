@@ -22,7 +22,7 @@ Calm and analytical developer focused on building practical software and automat
 
 ## Additional Skills
 
-CODESYS v3.5 • CANopen • Automation • Testing • Pygame • Raspberry Pi • Industrial System Concepts • Full Stack Development
+CODESYS v3.5 • CANopen • Testing • Pygame • Raspberry Pi • Full Stack Development
 
 ## Featured Projects
 
