@@ -1,16 +1,12 @@
 # Toni Silfver
 
-**Cybersecurity**
-
 ## About Me
 
-Interested in cybersecurity and currently developing my knowledge in the field.
+This profile contains projects from my studies and personal work.
 
-I use this GitHub profile to document practical projects and things I have built during my studies and personal learning.
+I am interested in technology and developing my skills in IT.
 
-![Profile views](https://komarev.com/ghpvc/?username=tosilfv&label=Profile%20views&color=0e75b6&style=flat)
-
-## Core Technologies
+## Technologies Used
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML/)
@@ -18,21 +14,11 @@ I use this GitHub profile to document practical projects and things I have built
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-## Additional Skills
-
-CODESYS v3.5 • CANopen • Testing • Pygame • Raspberry Pi • Full Stack Development
-
 ## Featured Projects
 
 ### Hotel Piccolo – Pygame
 
-Educational game project built with Python and Pygame. Designed with a strong focus on modular architecture, maintainability, and testability, including use of the Mediator pattern to coordinate game components.
-
-**Highlights**
-- Modular project structure
-- Testable game logic
-- Object interaction through Mediator pattern
-- Focus on maintainability and clean design
+Game project built with Python and Pygame as part of my studies. The project uses a modular structure and the Mediator pattern to coordinate game components.
 
 [View Repository](https://github.com/tosilfv/Hotel-piccolo-game)
 
@@ -40,13 +26,7 @@ Educational game project built with Python and Pygame. Designed with a strong fo
 
 ### Raspberry Pi Air Quality System
 
-Automation project built with Python and Raspberry Pi hardware. Uses a Sen5x I2C sensor to measure air quality and control ventilation automatically, demonstrating practical sensor integration and hardware-software communication.
-
-**Highlights**
-- Python-based automation
-- Sensor integration with Sen5x
-- Ventilation control logic
-- Hands-on embedded and hardware-oriented development
+Raspberry Pi project built with Python using a SEN5x I2C sensor to measure air quality and control ventilation automatically.
 
 [View Repository](https://github.com/tosilfv/Raspberry-air-quality-control)
 
